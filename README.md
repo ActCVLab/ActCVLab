@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Welcome to ActCVLab！ 👋
+ActCVLab focuses on computer vision, remote sensing technology, and multi-source information fusion perception. It is affiliated with the Institute of Advanced Technology Innovation at Fuzhou University (a Key Laboratory of the Ministry of Education, https://xjjs.fzu.edu.cn/), and its core members include:
+Qiu Zhaobing (Associate Researcher, qiuzhaobing@fzu.edu.cn ): 
+https://xjjs.fzu.edu.cn/info/1011/1323.htm
+Chen Liqiong (Associate Researcher, liqiongchen@fzu.edu.cn): 
+https://xjjs.fzu.edu.cn/info/1011/1321.htm
 <!--
 **ActCVLab/ActCVLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
