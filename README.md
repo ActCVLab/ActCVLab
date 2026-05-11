@@ -4,8 +4,8 @@ ActCVLab focuses on computer vision, remote sensing technology, and multi-source
 * Chen Liqiong (Associate Researcher, liqiongchen@fzu.edu.cn): https://xjjs.fzu.edu.cn/info/1011/1321.htm
 
 ## Recent Publications:
-*
-
+* Chen L., Liu H., Qiu Z*., et al., "A high-quality data augmentation method for infrared small target detection," IEEE Transactions on Geoscience and Remote Sensing, 2026. （SCI 一区TOP, 国际顶级期刊）[paper]()
+* 
 ## Journal Reviewer:
 * IEEE Transactions on Geoscience and Remote Sensing(TGRS)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
